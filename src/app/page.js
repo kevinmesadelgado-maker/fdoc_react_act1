@@ -1,12 +1,12 @@
 'use client'
 
-import SaludoBasico from "./componets/SaludoBasico"
-import SaludoDesestructurado from "./componets/SaludoDesestructurado";
-import PerfilConObjeto from './componets/PerfilConObjeto'
-import BotonConCallback from './componets/BotonConCallback.'
-import Contenedor from "./componets/ContenedorRenderProp";
-import CajaChildren from "./componets/CajaChildren";
-import SaludoConDefaultProps from "./componets/SaludoConDefaultProps";
+import SaludoBasico from "./components/SaludoBasico"
+import SaludoDesestructurado from "./components/SaludoDesestructurado";
+import PerfilConObjeto from './components/PerfilConObjeto'
+import BotonConCallback from './components/BotonConCallback.'
+import Contenedor from "./components/ContenedorRenderProp";
+import CajaChildren from "./components/CajaChildren";
+import SaludoConDefaultProps from "./components/SaludoConDefaultProps";
 
 
 export default function page() {
